@@ -46,6 +46,6 @@ The Purosangue is gone.
 ![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/e312cf95-2087-4429-a679-8d96305aeb1c)
 
 
-As you can see in this small project I learned how to use the 4 methods and experienced a bit with Spring Boot.
+As you can see in this small project I learned how to use the 4 http methods and experienced a bit with Spring Boot.
 
 
