@@ -37,3 +37,14 @@ Now let's try to delete the Ferrari Purosangue from the database since the owner
 
 ![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/4de7925f-81e1-4f29-94f2-1bb9f7303b02)
 
+Reading all cars again: 
+
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/96260d33-044c-42ed-9565-ee0754ed043c)
+
+The Purosangue is gone.
+
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/7a875b77-d161-4336-a262-54142459e073)
+
+As you can see in this small project I learned how to use the 4 methods and experienced a bit with Spring Boot.
+
+
