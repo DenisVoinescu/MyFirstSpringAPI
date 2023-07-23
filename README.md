@@ -8,19 +8,17 @@ First let's use Postman get method to see if there are any car objects existing 
 
 Looks like it's empty. Let's add some: 
 
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/ea2e31f8-6e82-4363-ad53-aa4531dcb212)
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/ef73ab37-ad87-4a33-b448-0074959ba192)
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/d2c814bd-10fc-4288-8917-a06be9804864)
 
-Great!
-
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/7eafbfaa-638e-4bb0-a0ee-eecd971cd908)
-
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/508adb5b-2a2a-439c-9df7-8764cf735d51)
 
 
 Now let's use the get method again to see if anything changed: 
 
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/26247be7-f328-4733-a552-f53151da8cb1)
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/dc747f5e-c05c-4e09-84cc-ece50c245c61)
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/91913bae-479b-4f29-a9f5-fa8a4fef011c)
+
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/261aa0e3-c026-49ef-ac51-b2ae6174c316)
+
 
 
 Nice. Now let's update the kilometer count on the Ferrari Portofino, since the owner is still using it while it's listed for sale: 
