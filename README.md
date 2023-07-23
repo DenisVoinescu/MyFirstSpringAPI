@@ -23,11 +23,13 @@ Now let's use the get method again to see if anything changed:
 
 Nice. Now let's update the kilometer count on the Ferrari Portofino, since the owner is still using it while it's listed for sale: 
 
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/d8d86cfe-8c0d-497d-8740-187bd2926eb6)
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/3d84e60a-bb80-4dd8-9ff1-c020d165f8aa)
 
-The count went up to 4100. Let's see again with the get method: 
 
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/172f5877-9a7c-47a9-afaa-58dbd5889ca0)
+The count went up to 1800. Let's see again with the get method: 
+
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/9bf25dd5-075d-4564-91bf-771a11d92a12)
+
 
 Awesome.
 
