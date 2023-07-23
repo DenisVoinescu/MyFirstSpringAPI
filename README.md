@@ -23,27 +23,28 @@ Now let's use the get method again to see if anything changed:
 
 Nice. Now let's update the kilometer count on the Ferrari Portofino, since the owner is still using it while it's listed for sale: 
 
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/3d84e60a-bb80-4dd8-9ff1-c020d165f8aa)
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/f45a3c09-1a1f-4296-ac12-6879d321011b)
 
 
 The count went up to 1800. Let's see again with the get method: 
 
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/9bf25dd5-075d-4564-91bf-771a11d92a12)
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/86ab841d-6751-44db-8b66-61346a8ddc0b)
 
 
 Awesome.
 
 Now let's try to delete the Ferrari Purosangue from the database since the owner doesn't want to sell it anymore:
 
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/4de7925f-81e1-4f29-94f2-1bb9f7303b02)
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/78e74d81-2fbb-4e7e-814d-a9b30604907b)
 
 Reading all cars again: 
 
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/96260d33-044c-42ed-9565-ee0754ed043c)
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/546ade9b-0296-49e5-a7fd-be654558c647)
 
 The Purosangue is gone.
 
-![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/7a875b77-d161-4336-a262-54142459e073)
+![image](https://github.com/DenisVoinescu/MyFirstSpringAPI/assets/126812746/e312cf95-2087-4429-a679-8d96305aeb1c)
+
 
 As you can see in this small project I learned how to use the 4 methods and experienced a bit with Spring Boot.
 
